@@ -2,7 +2,7 @@
 Single-file cross-platform network discovery &amp; vulnerability scanner (C++20)
 # ReaperOS — Black Edition
 
-**.**
+**For educational and authorized penetration testing only..**
 
 - Zero dependencies  
 - Pure C++20  
