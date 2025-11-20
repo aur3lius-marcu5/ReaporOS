@@ -16,6 +16,12 @@ Single-file cross-platform network discovery &amp; vulnerability scanner (C++20)
 
 Built by one person. Runs everywhere.
 
+# Windows (Visual Studio 2022+)
+Just open reaperos.cpp → Build → Run
+
+# Linux / macOS
+g++ -std=c++20 -O2 -pthread reaperos.cpp -o reaperos && ./reaperos
+
 ### Metasploitable 2 result (real output)
 ```text
 IP: 192.168.81.132 [ALIVE]
